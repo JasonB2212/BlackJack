@@ -123,12 +123,6 @@ Lose: 544508_9944713-lq.mp3
 
 Shuffle: 108779_1411102-lq.mp3
 
-Lizenz/Attribution: Bitte ergänze im Projekt (z. B. in dieser README) die exakten Titel & Urheber der verwendeten Freesound-Clips und die zugehörige Creative-Commons-Lizenz (typisch CC BY 3.0/CC BY 4.0). Nennung ist je nach Clip erforderlich.
-
-Beispiel-Format für die Attribution:
-
-„Titel“ – von Urhebername (freesound.org), Lizenz CC BY x.x
-
 🧠 Urheberrecht & Nutzung
 
 Der gesamte Code wurde selbst entwickelt bzw. mit Hilfe von ChatGPT generiert.
